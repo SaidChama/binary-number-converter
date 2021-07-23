@@ -14,7 +14,7 @@ export default function Home() {
 			</div>
 			<div className={HomeStyles.resultContainer}>
 				<input required readOnly/>
-				<label>Resultado:</label>
+				<label>Resultado (Result):</label>
 				<span />
 			</div>
 			<div className={HomeStyles.buttonContainer}>
